@@ -37,3 +37,8 @@ alias hcp='heroku run rails c -r production'
 alias hls='heroku logs -r staging'
 alias hlp='heroku logs -r production'
 alias haset='heroku accounts:set'
+
+##############################################
+# Others
+##############################################
+alias c='xclip -se c'
